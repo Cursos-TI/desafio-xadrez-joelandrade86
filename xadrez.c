@@ -7,8 +7,6 @@
 int main() {
 
         int i = 0;
-        int linha_atual = 3; // Posição inicial da linha 
-        int coluna_atual = 4; // Posição inicial da coluna 
         int movimentos = 0;
         // Nível Novato - Movimentação das Peças
         // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
